@@ -10,4 +10,4 @@ jobs:
 
 steps:
   - name: Greetings
-    run:  echno " Hello From me"
+    run:  echno "Hello From me"
