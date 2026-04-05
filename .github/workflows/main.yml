@@ -8,6 +8,7 @@ jobs:
   demo:
     runs-on: ubuntu-latest
 
-steps:
-  - name: Greetings
-    run:  echno "Hello From me"
+    steps:
+      - name: Greeting
+        run: echo "Hello from Me"
+  
